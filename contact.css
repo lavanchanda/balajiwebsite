@@ -1,0 +1,44 @@
+form{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 390px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color:aqua;
+    border-radius: 20% 0% 20% 0%;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+label{
+    font-size: 18px;
+    text-align: center;
+    color: blueviolet;
+}
+input{
+    height: 30px;
+    width: 200px;
+
+}
+textarea{
+    height: 100px;
+    width: 200px;
+
+}
+button{
+    height: 5dvh;
+    width: 150px;
+    background-color:blueviolet;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 20px;
+
+}
+button hover{
+    background-color: blue;
+    text-size-adjust: 10px;
+    
+
+}
